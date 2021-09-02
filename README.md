@@ -1,1 +1,11 @@
 # VimSetup
+
+
+````
+PlugInstall
+PlugUpdate
+````
+
+```
+/search
+```
