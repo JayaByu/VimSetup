@@ -6,6 +6,16 @@ PlugInstall
 PlugUpdate
 ````
 
+#Hilight Plugin installed 
+
 ```
-/search
+Auto Complete
+/search 
+line number
+```
+
+#How to install
+
+```
+sh installer.sh
 ```
